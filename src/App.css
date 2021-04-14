@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+amplify-authenticator {
+  background: tomato;
+  padding: 5px;
+}
